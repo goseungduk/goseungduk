@@ -20,5 +20,5 @@
 
 - Catholic University, Computer Engineering
 - Reverser
-- [GOSEUNGDUK](goseungduk.github.io)
-- [GOSEUNGDUK_TISTORY](goseungduk.tistory.com)
+- [GOSEUNGDUK](https://goseungduk.github.io)
+- [GOSEUNGDUK_TISTORY](https://goseungduk.tistory.com)
